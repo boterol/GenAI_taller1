@@ -1,0 +1,15 @@
+- ID001: En preparación — última actualización: 2025-09-24
+- ID002: En tránsito — última actualización: 2025-09-23
+- ID003: Entregado — última actualización: 2025-09-14  
+- ID004: Entregado — última actualización: 2025-09-05  
+- ID005: Cancelado — última actualización: 2025-09-18
+- ID006: En tránsito — última actualización: 2025-09-25
+- ID007: Pendiente de pago — última actualización: 2025-09-21
+- ID008: Entregado — última actualización: 2025-09-20   
+- ID009: Entregado — última actualización: 2025-09-07   
+- ID010: En preparación — última actualización: 2025-09-23
+- ID011: Pendiente de confirmación — última actualización: 2025-09-24
+- ID012: En tránsito — última actualización: 2025-09-22
+- ID013: Entregado — última actualización: 2025-09-12   
+- ID014: Cancelado — última actualización: 2025-09-18
+- ID015: Entregado — última actualización: 2025-09-01   
